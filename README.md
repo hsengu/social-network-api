@@ -14,14 +14,13 @@
 ## Description
 This project is a RESTful API designed to mimic a Social Network backend with the ability to create, read, update, and delete Users, Thoughts, Friends, and Reactions.
 
-View the application in action [here]().
+View the application in action [here](https://drive.google.com/file/d/1ot8Rrw7PJ9Zy21hIqzCJuw516o5nGdnO/view?usp=sharing).
 
 ## Built With
 - Node.js
 - Express.js
 - Mongo.db
 - Mongoose
-- Heroku
 
 ## Installation
     =============
